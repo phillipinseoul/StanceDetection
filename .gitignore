@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-TAN/__pycache__*
 Preprocessing/glove.6B.300d.txt
-
-=======
 *.txt
 *.csv
->>>>>>> 11c56d9298f54e47bd242924a53cb42ae1c7cdef
