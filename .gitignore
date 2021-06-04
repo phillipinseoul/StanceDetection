@@ -1,3 +1,8 @@
-Preprocessing/glove.6B.300d.txt
 *.txt
 *.csv
+Preprocessing/Data_MPCHI
+Preprocessing/Data_MPCHI_P
+Preprocessing/Data_SemE
+Preprocessing/Data_SemE_P
+Preprocessing/New_Data
+Preprocessing/New_Data_P
