@@ -46,7 +46,7 @@ ID	Target	tweet	Stance
 10719	Hillary Clinton	doug shelton 749 if real donald trump finds evidence , he will expose # hrc # as the horrible candidate she is	AGAINST
 10720	Hillary Clinton	doug shelton 749 real donald trump i 'd be happy if that scandal brings her down there will be others	AGAINST
 10721	Hillary Clinton	rt catty hipster live today like it 's your last day but pay bills and dress appropriately just in case it is n't # 420 #	NONE
-10722	Hillary Clinton	the jack o brien insta pundit boom ! i believe the 6th ' reporter ' from the left has forgotten her mittens # media stiff armed #	NONE
+10722	Hillary Clinton	the jack o brien instapundit boom ! i believe the 6th ' reporter ' from the left has forgotten her mittens # media stiff armed #	NONE
 10723	Hillary Clinton	that 's true , as long as one works hard , has a record of accomplishment and deserves it hillary clinton not	AGAINST
 10724	Hillary Clinton	also known as depends day it all depends and owe bam a 's positions make you fill your depends jj author we know what s best	NONE
 10725	Hillary Clinton	# hillary clinton # wants to be elected ( thinks she 's entitled ) to work for the people , yet , she wants nothing to do with them ! # peons #	AGAINST
@@ -111,7 +111,7 @@ ID	Target	tweet	Stance
 10784	Hillary Clinton	hillary clinton accomplishment of the day extended full military health benefits to reservists and national guard members	FAVOR
 10785	Hillary Clinton	if hillary clinton becomes president i'm not leaving the country i will just go undocumented	AGAINST
 10786	Hillary Clinton	7 years ago this month # potus # released his groundbreaking first americans tribal policy platform you 're up # election 2016 #	NONE
-10787	Hillary Clinton	kw r crow probably for the same reason b ho has not speaker boehner is one of them gop house gop sean hannity # stop bush #	NONE
+10787	Hillary Clinton	kw r crow probably for the same reason bho has not speaker boehner is one of them gop house gop sean hannity # stop bush #	NONE
 10788	Hillary Clinton	# hillary clinton # just cannot accept the fact that # america # does not like her # hillary on cnn # # bernie sanders #	AGAINST
 10789	Hillary Clinton	hillary clinton is plain amazing , humble , smart and confident ! let 's get it mrs president ! # hillary clinton #	FAVOR
 10790	Hillary Clinton	the hill great now hillary knows how the american people feel about the majority of politicians including her	AGAINST
@@ -150,7 +150,7 @@ ID	Target	tweet	Stance
 10823	Hillary Clinton	cnn politics political ant moody this is beautiful # oops #	NONE
 10824	Hillary Clinton	# no hillary 2016 # her # predator rat # , too mt steve 0423 we need to get these stickers up nationwide ! # t cot # # red nation rising #	AGAINST
 10825	Hillary Clinton	for ew it hillary clinton is a degenerate liar who will do , say , cheat , delete , anything to get another squat at 1600 penn ave	AGAINST
-10826	Hillary Clinton	re ince hardly a hard hitting interview like with gop candidates did cnn pre clear its questions with her campaign in advance ? ?	NONE
+10826	Hillary Clinton	re ince hardly a hard hitting interview like with gop candidates did cnn preclear its questions with her campaign in advance ? ?	NONE
 10827	Hillary Clinton	democrats want power for themselves republicans will give you the power ! # election 2016 #	AGAINST
 10828	Hillary Clinton	dad while watching the news politics is just show business for ugly people # how about no #	NONE
 10829	Hillary Clinton	the daily beast such a waste of space # cracking ceilings #	NONE

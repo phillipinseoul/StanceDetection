@@ -201,7 +201,7 @@
 378	Are E-Cigarettes safe?	in 2015 , public health england stated that e cigarettes are estimated to be 95 less harmful than smoking	FAVOR
 334	Are E-Cigarettes safe?	they reply generally considered safer than regular cigarettes , because they are smoke free and tobacco free however , they are not nicotine free	FAVOR
 216	Are E-Cigarettes safe?	the researchers determined that e cigarette vapor contains free radicals , known toxins found in cigarette smoke and air pollution	AGAINST
-279	Are E-Cigarettes safe?	cigarette smoke contains thousands of chemicals , but nicotine is the major chemical that causes cigarette addiction , hello said in a statement to health line	NONE
+279	Are E-Cigarettes safe?	cigarette smoke contains thousands of chemicals , but nicotine is the major chemical that causes cigarette addiction , hello said in a statement to healthline	NONE
 356	Are E-Cigarettes safe?	regular cigarettes contain nearly 600 additives , 69 of which are carcinogenic	NONE
 236	Are E-Cigarettes safe?	survey data indicate that e cigarette use is overwhelmingly concentrated about current and former smokers	NONE
 207	Are E-Cigarettes safe?	research findings on e cigarettes warrant further study in susceptible individuals , such as copd patients who have switched from cigarettes to e cigarettes , or to new users of e cigarettes who may have never used cigarettes	NONE
@@ -225,7 +225,7 @@
 1	Are E-Cigarettes safe?	there are questions about how safe it is to inhale some substances in the e cigarette vapor into the lungs	AGAINST
 49	Are E-Cigarettes safe?	the amount of vapor produced is controlled by the power of the battery , which has led some users to adjust their e cigarettes to increase battery power to obtain a stronger nicotine hit , but there is a small risk of battery explosion	AGAINST
 80	Are E-Cigarettes safe?	aldehydes may cause harmful health effects though , in the majority of cases , the amounts inhaled are less than those in traditional cigarettes	FAVOR
-205	Are E-Cigarettes safe?	our findings suggest that e cigarettes are not neutral in terms of the effects on the lungs , said senior author shyam b is wal , a professor in the department of environmental health sciences at the bloomberg school	AGAINST
+205	Are E-Cigarettes safe?	our findings suggest that e cigarettes are not neutral in terms of the effects on the lungs , said senior author shyam biswal , a professor in the department of environmental health sciences at the bloomberg school	AGAINST
 34	Are E-Cigarettes safe?	most e cigarettes use lithium batteries , the improper use of which may result in accidents	AGAINST
 263	Are E-Cigarettes safe?	unfortunately , the evidence on whether e cigarettes help smokers to quit is contradictory and inconclusive , katz wrote	NONE
 91	Are E-Cigarettes safe?	a 2014 review noted a study had found metal particles in the fluid and aerosol , at levels were 10 50 times less than that allowed in medicines that are inhaled	AGAINST

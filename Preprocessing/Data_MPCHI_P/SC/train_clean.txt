@@ -225,7 +225,7 @@
 99	Does Sunlight exposure lead to skin cancer?	but professor scott menzies , from the university of sydney at the sydney melanoma diagnostic center , argues that melanoma is far more common on body sites receiving more sun exposure and in people of races who tend to burn rather than tan	FAVOR
 87	Does Sunlight exposure lead to skin cancer?	too much exposure to ultraviolet or uv rays can cause sunburn	NONE
 330	Does Sunlight exposure lead to skin cancer?	dr andrea darling , post doctoral research fellow from the university of surrey , said there was still strong evidence that skin cancer is caused by sunbathing	FAVOR
-214	Does Sunlight exposure lead to skin cancer?	people with certain rare hereditary conditions , such as gorlin syndrome or xeroderma pigment o sum ( experience ) , have a higher risk of developing skin cancer	NONE
+214	Does Sunlight exposure lead to skin cancer?	people with certain rare hereditary conditions , such as gorlin syndrome or xeroderma pigmentosum ( experience ) , have a higher risk of developing skin cancer	NONE
 121	Does Sunlight exposure lead to skin cancer?	it 's true that in dark skinned people , like the asian and black populations , melanoma shows up in areas of the body that are not exposed to the sun and this certainly could suggest that melanoma is not related to uv light	AGAINST
 340	Does Sunlight exposure lead to skin cancer?	population studies also show an inverse relationship between sun exposure and melanoma	AGAINST
 20	Does Sunlight exposure lead to skin cancer?	at the same time , these indoor workers are missing out on exposure to the beneficial uvb rays , and have lower levels of vitamin d	NONE

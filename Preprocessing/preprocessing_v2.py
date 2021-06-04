@@ -71,7 +71,7 @@ def split(word, word2emb):
 
 def load_glove_embeddings():
     word2emb = {}
-    WORD2VEC_MODEL = "./glove.6B.300d.txt"
+    WORD2VEC_MODEL = "../glove.6B.300d.txt"
     fglove = open(WORD2VEC_MODEL,"r")
     for line in fglove:
         cols = line.strip().split()
@@ -82,25 +82,26 @@ def load_glove_embeddings():
     return word2emb
 
 word2emb = load_glove_embeddings()
-raw_folders = ['./Data_SemE','./Data_MPCHI']
-processed_folders = ['./Data_SemE_P','./Data_MPCHI_P']
+# raw_folders = ['./Data_SemE','./Data_MPCHI']
+# processed_folders = ['./Data_SemE_P','./Data_MPCHI_P']
+raw_folders = ['./New_Data']
+processed_folders = ['./New_Data_P']
 
 for folder in processed_folders:
     if os.path.exists(folder):
         shutil.rmtree(folder)
     os.mkdir(folder)
 
-for dataset,new_folder in zip(raw_folders,processed_folders):
+for dataset, new_folder in zip(raw_folders, processed_folders):
     f = {}
     print (dataset)
     for root, directories, filenames in os.walk(dataset):
         for directory in directories:             
             f[os.path.join(root, directory)] = {}
         for filename in filenames:
-            # print(filename)
             if filename == ".DS_Store":
                 continue
-            f[root][os.path.splitext(filename)[0]] = os.path.join(root,filename)
+            f[root][os.path.splitext(filename)[0]] = os.path.join(root, filename)
     print (f)
 
     correct = 0
@@ -116,13 +117,13 @@ for dataset,new_folder in zip(raw_folders,processed_folders):
             s_words = 0
             new_lines = []
             old_lines = []
-            with open(f[key][k],"r") as fp:
+            with open(f[key][k], "r", encoding='utf-8', errors='ignore') as fp:
                 lines = fp.readlines()
                 for line in lines:
                     x = line.split("\t")
-                    old_sent = copy.deepcopy(x[2])
+                    old_sent = copy.deepcopy(x[0])
                     old_lines.append(old_sent)
-                    sent = clean_str(x[2])
+                    sent = clean_str(x[0])
                     word_tokens = sent.split(' ')
 
                     #Normalization
@@ -157,8 +158,8 @@ for dataset,new_folder in zip(raw_folders,processed_folders):
                         final_tokens = stemmed_tokens
                     
                     new_sent = ' '.join(final_tokens)
-                    x[2] = new_sent
-                    if (len(x) == 3):
+                    x[0] = new_sent
+                    if (len(x) == 1):
                         if correct == 0:
                             x.append('NONE\n')
                             correct+=1
@@ -174,10 +175,10 @@ for dataset,new_folder in zip(raw_folders,processed_folders):
                     wf.writelines(new_lines)
                 with open(new_cat_folder+"/"+k+"_preprocessed.csv","w") as csvf:
                     writer = csv.writer(csvf)
-                    writer.writerow(["Tweet", "Stance","Index","Original Tweet"])
+                    writer.writerow(["Tweet", "Stance", "Original Tweet"])
                     for i,line in enumerate(new_lines):
                         try:
-                            writer.writerow([line.split("\t")[2],line.split("\t")[3][:-1],int(line.split("\t")[0]),old_lines[i]])
+                            writer.writerow([line.split("\t")[0], line.split("\t")[1][:-1], old_lines[i]])
                         except:
                             print (line.split('\t'))
 

@@ -42,10 +42,10 @@ ID	Target	tweet	Stance
 10430	Feminist Movement	dear feminists do n't say you are disempowered when you have the power to get anybody fired , just like # tim hunt #	AGAINST
 10431	Feminist Movement	last rt there were lawsuits around women being able to eat in public without chaperone usa 20th century	AGAINST
 10432	Feminist Movement	in civilian clothes and someone laughs at me thinking its a joke that i'm apart of the you is navy	AGAINST
-10433	Feminist Movement	nice rap by ran veer official arjun k 26 late but you made your point ki ad mi ki kya hello jar or at its all about	AGAINST
+10433	Feminist Movement	nice rap by ran veer official arjun k 26 late but you made your point ki admi ki kya hello jar or at its all about	AGAINST
 10434	Feminist Movement	ironic how the anti feminist intimidation machine has drowned out the voices of those trying to civilly critique feminist ideas	AGAINST
 10435	Feminist Movement	apparently # yes all women # who do n't need no man never drive a car , turn on a light switch , or drink clean water	AGAINST
-10436	Feminist Movement	we lp i just saw the infamous rad fem protests at a toronto mra speech for the first time disgusting # feminism is cruelty #	AGAINST
+10436	Feminist Movement	welp i just saw the infamous rad fem protests at a toronto mra speech for the first time disgusting # feminism is cruelty #	AGAINST
 10437	Feminist Movement	what 's red and something all feminist should bite into ? a brick now shut the f k up	AGAINST
 10438	Feminist Movement	i can get women not being feminists , sort of but women being men in is ts mr as ? what the actual fuck # mra #	AGAINST
 10439	Feminist Movement	can i also add that i really enjoyed looking at tahir raj b has in in # mard a ani # p tahir , you were a dashing baddie ! # hollywood #	AGAINST
@@ -81,7 +81,7 @@ ID	Target	tweet	Stance
 10469	Feminist Movement	feminists who go for a gender studies degree should also blame the patriarchy for their mediocre grades in science	AGAINST
 10470	Feminist Movement	nor b delta he deserved it for being part of the dominating sex check your privilege # equality #	FAVOR
 10471	Feminist Movement	by writing her self , woman will return to the body which has been more than confiscated from her hl ne cixous # theatre #	FAVOR
-10472	Feminist Movement	having fabulous feminist conversations with na oise wheel an	FAVOR
+10472	Feminist Movement	having fabulous feminist conversations with na oise wheelan	FAVOR
 10473	Feminist Movement	if you 're a # feminist # it 's only because absolutely no one would shove their semi hard cock into you let that sink in	AGAINST
 10474	Feminist Movement	we live in a sad world when wanting equality makes you a person who di liberate ly stirs up trouble	FAVOR
 10475	Feminist Movement	some men do not deserve to be called gentlemen	NONE
@@ -124,13 +124,13 @@ ID	Target	tweet	Stance
 10512	Feminist Movement	feminism ? ? equal rights ? ? ? treating people like humans ? ? nono no ooo is cruelty	AGAINST
 10513	Feminist Movement	ladies is pimps too go on brush your shoulders off	FAVOR
 10514	Feminist Movement	i'm the bad cop to pat jo uk 's good cop ( though am i is she really ? mu a hah a p ) # tech # # tech diversity #	NONE
-10515	Feminist Movement	women want to be treated as equals until they get hit after hitting a man first bull shit ! moth a fuck	AGAINST
+10515	Feminist Movement	women want to be treated as equals until they get hit after hitting a man first bull shit ! motha fuck	AGAINST
 10516	Feminist Movement	truth erbo t red there 's a woman in a picture and she 's being groped lets yell # womens rights # # feminist #	FAVOR
 10517	Feminist Movement	if feminism was not a religion , feminists would not fervently reject all evidence they emotionally find blasphemous	AGAINST
 10518	Feminist Movement	i thought this video on # equality # was interesting , contradictions and demonization about men in the agenda of passive and activist	AGAINST
 10519	Feminist Movement	evidence of the fossil record to creationism is the evidence against the wage gap to feminists # gamer gate #	AGAINST
 10520	Feminist Movement	# how to spot a feminist # ? they are so sexually unattractive that even in a world of rapists they would always be safe	AGAINST
-10521	Feminist Movement	also tatum 's feigns giving oral in a hands free head stand see this film	NONE
+10521	Feminist Movement	also tatum 's feigns giving oral in a hands free headstand see this film	NONE
 10522	Feminist Movement	everyone quick , feminists are a minority now ! laughing out loud	AGAINST
 10523	Feminist Movement	and girls just want to have fun da mental rights	FAVOR
 10524	Feminist Movement	seriously considering writing an article on the ban of school skirts at a secondary school , any thoughts would be appreciated )	NONE
@@ -195,7 +195,7 @@ ID	Target	tweet	Stance
 10583	Feminist Movement	# gamer gate # tag is about games other things ? they have their own tags # sj w logic # # save the cover # # shirt storm #	NONE
 10584	Feminist Movement	the shaming we do around celebrity choices in photoshoots is highly related to the principles behind	NONE
 10585	Feminist Movement	why are you afraid of me when i open my mouth but not when i open my legs ?	FAVOR
-10586	Feminist Movement	paula 0422 by the way if you like chris brown i will set you to angry comments with my spark farts ! # rh i anna #	NONE
+10586	Feminist Movement	paula 0422 by the way if you like chris brown i will set you to angry comments with my spark farts ! # rhianna #	NONE
 10587	Feminist Movement	the anti gamer gate people have behaved abominably , and have no moral ground from which to stand in judgement # gamer gate # # antis j w #	AGAINST
 10588	Feminist Movement	unless you have a health or physiological problem , you should not be proud of your overweight body ! # health #	NONE
 10589	Feminist Movement	what young woman does n't want to be # sugar baby # ? it 's far better than slaving away in a cubicle for nothing # sugar daddy #	AGAINST
@@ -244,7 +244,7 @@ ID	Target	tweet	Stance
 10632	Feminist Movement	n 4 g that 's what she gets for not knowing her place # know your place women # # free speech #	AGAINST
 10633	Feminist Movement	women are murder , abused , raped and etc but what is apparently more important for feminism are # free then i ppp le # and # man spreading #	AGAINST
 10634	Feminist Movement	i always enjoy being called a slut , or a bitch by feminists for my opinions # anti feminism #	AGAINST
-10635	Feminist Movement	hugo schwyz er , jian gomes hi , both prominent male feminists , both abusers of women # sjw # # gamer gate #	AGAINST
+10635	Feminist Movement	hugo schwyzer , jian gomes hi , both prominent male feminists , both abusers of women # sjw # # gamer gate #	AGAINST
 10636	Feminist Movement	# yes all women # are # always # # unstoppable # if they whine whine whine to get their way # like a girl # # gamer gate # # honey badger #	AGAINST
 10637	Feminist Movement	# yes all women # are # always # # unstoppable # if they cry to get their way # like a girl # # gamer gate #	AGAINST
 10638	Feminist Movement	if those feminists come to their senses about equality , they will be calling themselves equal is t men in is t tweet	AGAINST

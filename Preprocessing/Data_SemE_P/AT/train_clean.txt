@@ -47,7 +47,7 @@
 147	Atheism	it 's ask an atheist day ! have a question ? # ask an atheist #	FAVOR
 148	Atheism	a # kingdom # has a particular # culture # , a way of doing things ( ed welch )	NONE
 149	Atheism	no matter what i face , at the end of the day , i know i will be okay , because i know the maker of the day # happy note #	AGAINST
-150	Atheism	is there a way to get free atheist literature to pass out at an upcoming protest i'm planning ? # ff rf #	FAVOR
+150	Atheism	is there a way to get free atheist literature to pass out at an upcoming protest i'm planning ? # ffrf #	FAVOR
 151	Atheism	evidence based thought just works out better than superstition based thought # freethinker #	FAVOR
 152	Atheism	all these bible studies i 've been a part of at until next time makes me kind of want to to go to seminary school # until next time # # mean green # # gospel #	AGAINST
 153	Atheism	musical seizure it 's very cool , but it 's not evidence for any # god # is that what you 're implying ?	FAVOR
@@ -166,7 +166,7 @@
 266	Atheism	humanity is deeper than race , gender and religion it 's love ! # love # # inv # # life # # humanity # # race # # sex # # gender #	NONE
 267	Atheism	i adore the women the lord is making me into ! wow # forever grateful # # being me # # this is who i was meant to be all along # # free #	AGAINST
 268	Atheism	struggling with identity is very real christians need to look in # christ # he has your # identity # and # destiny # tweeters	AGAINST
-269	Atheism	as bad as it looks as chaos reeks havoc as dark as the days grow god still and forever will ever be , always in control # ph n #	AGAINST
+269	Atheism	as bad as it looks as chaos reeks havoc as dark as the days grow god still and forever will ever be , always in control # phn #	AGAINST
 270	Atheism	rt prayer bullets let the scepter of your kingdom be released heb 1 8	AGAINST
 271	Atheism	rt prayer bullets let the gates of my life and city be opened for the king of glory to come in ps 24 7	AGAINST
 272	Atheism	let us offer through jesus a continual sacrifice of praise to god , proclaiming our allegiance to his name hebrews 13 15 n lt # god #	AGAINST
@@ -181,7 +181,7 @@
 281	Atheism	you have not to be indifferent to those children who are starving in the desert they and you are being connected to each other	NONE
 282	Atheism	' ' they tried to bury us they did n't know we were # seeds # '' # mexican proverb # # tolerance # # coexistence # # peace # # liberty # # world #	NONE
 283	Atheism	rt what christ said pray as though everything depended on god work as though everything depended on you # love # # grace #	AGAINST
-284	Atheism	why criticize religions ? if a path is not your own do n't be pretentious and get down from your throne # peace # # world peace #	AGAINST
+284	Atheism	why criticize religions ? if a path is not your own do n't be pretentious and get down from your throne # peace # # worldpeace #	AGAINST
 285	Atheism	push through any pain you feel today ! your dreams are worth it ! # power through # # no days off #	NONE
 286	Atheism	never get so busy making a living that you forget to make a life # life #	NONE
 287	Atheism	religious leaders are like political leaders they say what they think people want to hear # freethinker #	FAVOR
@@ -200,7 +200,7 @@
 300	Atheism	thou shall think for ones self # freethought # # freethinker # # reality #	FAVOR
 301	Atheism	julie vila and it 's almost the end ! ! ! # homeschool # # curriculum #	NONE
 302	Atheism	for no one can lay any foundation other than the one that has been laid , that foundation is # christ #	AGAINST
-303	Atheism	if current trend of constitution making continues , indigenous people would more than mad he s is ha ch he thu # identity # # inclusion #	NONE
+303	Atheism	if current trend of constitution making continues , indigenous people would more than madhesis ha ch he thu # identity # # inclusion #	NONE
 304	Atheism	indigenous would lose more than madhesi if the current trend of constitution making continues ha ch he thu # identity # # federalism #	NONE
 305	Atheism	' i'm looking for a seed who would stand for identity forever ' ha ch he thu # federalism # # identity #	NONE
 306	Atheism	i will dwell in a peaceful habitation , in secure dwellings , and in quiet resting places isa 32 18	AGAINST
@@ -220,7 +220,7 @@
 320	Atheism	small steps eradicating bigotry remove confederate flags , healthcare for all , legalize gay marriage	NONE
 321	Atheism	i do n't know which i'm more surprised by , the usa or ireland , for their action on gay rights # lgbt # # usa # # ireland #	NONE
 322	Atheism	the world was made a better place today , even if it was on a small scale , it was a small step forward	NONE
-323	Atheism	in other news , this week fox news lost half its viewers due to heart attacks well , at least they have obamacare # unite biu e #	NONE
+323	Atheism	in other news , this week foxnews lost half its viewers due to heart attacks well , at least they have obamacare # unite biu e #	NONE
 324	Atheism	on a terrible day elsewhere , president obama 's beautiful , inspiring words on gay marriage are so welcome # equality # # hope #	NONE
 325	Atheism	whitehouse potus # imagine # no religion there 's no god loving one another unconditionally is what matters way to go usa ! # love wins #	FAVOR
 326	Atheism	# news alert # from heaven in an effort to minimize the workload # god # decides to only answer # gay # # prayers # # critical thinking #	AGAINST
@@ -270,7 +270,7 @@
 370	Atheism	irene s concierge i doubt that the other day two libyan soldiers raped a guy in england while on a training mission	NONE
 371	Atheism	1 holy mary mother of god , pray for us sinners now and at the hour of our death amen # rosary # # team jesus #	AGAINST
 372	Atheism	thankful for another day of this awesome life god has given us ) # peace # # thankful # # good father # # abundant # # joy # # life # # goodness #	AGAINST
-373	Atheism	you stick in the postcode on where you want to go and god will set the s at nav on how to get there dave gil pin hope city # destiny #	AGAINST
+373	Atheism	you stick in the postcode on where you want to go and god will set the satnav on how to get there dave gil pin hope city # destiny #	AGAINST
 374	Atheism	after all , is football a game or a religion ? howard cosell	NONE
 375	Atheism	greg abbott thanks which god ? yours ? not mine oh wait i do n't have one # love wins #	FAVOR
 376	Atheism	from the fear of being suspected , deliver me , jesus # catholic #	AGAINST
@@ -305,7 +305,7 @@
 405	Atheism	they were all filled with the holy spirit and began to speak in foreign tongues as the holy spirit prompted them to speak	AGAINST
 406	Atheism	i'm not reading that mother fucking book because a human wrote it ! # religious freedom # # humans lie #	FAVOR
 407	Atheism	amy mek the establishment clause sets our country apart and prevents the radical religious zealots from taking charge respect it	FAVOR
-408	Atheism	moe alq adi why # buddhism # works ! we except all as they are no judgement mexican american # social justice # # world peace # # happy # # freedom #	AGAINST
+408	Atheism	moe alq adi why # buddhism # works ! we except all as they are no judgement mexican american # social justice # # worldpeace # # happy # # freedom #	AGAINST
 409	Atheism	it was a lot of fun hearing seth andrews tt a talk about his new book # sacred cows # thinking atheist # godless gala #	FAVOR
 410	Atheism	shout it from the mountain tops scream out his name in praise you do n't have to be a christian or go to church to worship	AGAINST
 411	Atheism	rt letha hughes a belief in a cruel god makes a cruel man thomas paine # christianity # # islam # # sacrileges u #	FAVOR
@@ -459,7 +459,7 @@
 559	Atheism	atheists do n't believe in satan either , so all you satanists out there , put the sacrifice down and go have a beer ! # beer #	AGAINST
 560	Atheism	interestingly burning your wife alive suspecting her chastity is a great justice ram style ra may brf mad h uk ishwar author amish	AGAINST
 561	Atheism	it 's not the donkey or the elephant , it 's the lamb ! only the lamb that was slain and resurrected can save america behold the lamb !	AGAINST
-562	Atheism	you 're doing the work of ending domination ( bell hooks ) ( too too ) # feminism # # civil rights #	AGAINST
+562	Atheism	you 're doing the work of ending domination ( bell hooks ) ( too too ) # feminism # # civilrights #	AGAINST
 563	Atheism	today you and i have no idea what we will be facing , but # god # does and , in christ , has already supplied everything we need	AGAINST
 564	Atheism	we used to be intrigued by gods and angels , nowadays everybody is working in the cloud	AGAINST
 565	Atheism	one day it 'll all make sense , but for now just trust god and let him lead you	AGAINST

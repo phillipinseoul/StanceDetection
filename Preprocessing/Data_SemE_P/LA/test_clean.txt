@@ -54,7 +54,7 @@ ID	Target	tweet	Stance
 11022	Legalization of Abortion	independent ie no one has 5 he right to tell any person what they should do with their body	AGAINST
 11023	Legalization of Abortion	pro woman choice buh a yi pag laban people like you are exactly what is wrong with our society # pro contraception # # apologetic #	AGAINST
 11024	Legalization of Abortion	a bundle of cells feels more pain than a fully grown women ? no	AGAINST
-11025	Legalization of Abortion	professional choicer s are basically try na fight oppression with more oppression # feminist #	AGAINST
+11025	Legalization of Abortion	professional choicers are basically tryna fight oppression with more oppression # feminist #	AGAINST
 11026	Legalization of Abortion	# rally 4 life # more like rally for people who think they have the right to authorize other people 's decisions	AGAINST
 11027	Legalization of Abortion	as a man , the only body i should have a say in is my own # repeal the 8 th # # rally 4 life #	AGAINST
 11028	Legalization of Abortion	wish i could be at the # rally for life # counter protest women are people fetuses are clumps of cells end of story # ireland #	AGAINST
@@ -94,7 +94,7 @@ ID	Target	tweet	Stance
 11062	Legalization of Abortion	every year i see # rally 4 life # ads think ' that sounds great ! ' stop tricking me into thinking you want something positive ! # repeal the 8 th #	AGAINST
 11063	Legalization of Abortion	# def ent the 8 th # ? why would i defend something that kills people ? remember # savita # , killed by irish # prolife # laws ? # repeal the 8 th #	AGAINST
 11064	Legalization of Abortion	of course an embryo is a person ! if it were a puppy there 'd be no desire to abort it	AGAINST
-11065	Legalization of Abortion	if it 's not a person then why do women get in vitro ? to have a gold fish ?	AGAINST
+11065	Legalization of Abortion	if it 's not a person then why do women get invitro ? to have a gold fish ?	AGAINST
 11066	Legalization of Abortion	there should be no law or funding which justifies the murder of innocent life # c cot # # pj net #	AGAINST
 11067	Legalization of Abortion	in 1776 we killed the conservatives , freed ourselves from that crap # rightwing # # christian # # church state # # tyranny # # unite blue # # t cot #	AGAINST
 11068	Legalization of Abortion	compromising on # sin # gets easier as time goes on oh yeah , it did n't just start ! # sexual # impurity # wake up america #	AGAINST
@@ -111,7 +111,7 @@ ID	Target	tweet	Stance
 11079	Legalization of Abortion	hi hillary clinton while you are campaigning , 3000 innocent lives were killed by your pals # red nation rising # # unite blue #	AGAINST
 11080	Legalization of Abortion	why are tumblr feminists so territorial ? professional lifers ca n't even voice their opinions without being attacked # pro life problems #	AGAINST
 11081	Legalization of Abortion	the sanctity of human life is not a woman 's issue # anti feminism #	AGAINST
-11082	Legalization of Abortion	denis emo urges rep thomas mass ie i know ! i'm the only perfect ) candidate # pro civil liberties # # pro business # # pro worker # # pro peace #	AGAINST
+11082	Legalization of Abortion	denis emo urges rep thomas mass ie i know ! i'm the only perfect ) candidate # pro civil liberties # # probusiness # # pro worker # # pro peace #	AGAINST
 11083	Legalization of Abortion	next time just keep the baby	AGAINST
 11084	Legalization of Abortion	people do n't care about things that do n't effect men which is the same reason it 's sexist we do n't cover birth control	AGAINST
 11085	Legalization of Abortion	the point is bodily autonomy a born child can rely on other people , and can live by itself	AGAINST
@@ -153,7 +153,7 @@ ID	Target	tweet	Stance
 11121	Legalization of Abortion	show truth if they made it illegal , people would use coat hangers , and your photos would really be messed up # let doctors do it #	FAVOR
 11122	Legalization of Abortion	abortion is genocide i do n't think you know what genocide means # yg k #	AGAINST
 11123	Legalization of Abortion	yeah , let 's make a woman suffer 18 years and raise a child with an unfit parent who hates it because of morality	FAVOR
-11124	Legalization of Abortion	professional life laws only effect women so anti choicer s are fine with these laws because the laws are only hurting are females	FAVOR
+11124	Legalization of Abortion	professional life laws only effect women so anti choicers are fine with these laws because the laws are only hurting are females	FAVOR
 11125	Legalization of Abortion	anti choice laws are entirely men controlling women	FAVOR
 11126	Legalization of Abortion	a fetus is not living , breathing , born , sentient , or autonomous which is why the pregnant woman 's choice matters more	FAVOR
 11127	Legalization of Abortion	what about in cases of rape	FAVOR
@@ -237,12 +237,12 @@ ID	Target	tweet	Stance
 11205	Legalization of Abortion	asked a protester you 'll fund the moms ? yes so # announced # it in double team # hamon t # year old people # no abortion # these people what the heck pic z will pay 4 yo ' kids	AGAINST
 11206	Legalization of Abortion	congratulations to my friends at s ba list and w rtl for their commitment in getting pain capable act passed # wi right # # they feel pain #	AGAINST
 11207	Legalization of Abortion	how can someone be calling for abortion in a speech and end it with god bless america ? # right to life #	AGAINST
-11208	Legalization of Abortion	hillary clinton # gop # as whole party has backwards ideas on # immigration # # voting rights # # womens right # # civil rights # # healthcare # # dapa #	AGAINST
+11208	Legalization of Abortion	hillary clinton # gop # as whole party has backwards ideas on # immigration # # voting rights # # womens right # # civilrights # # healthcare # # dapa #	AGAINST
 11209	Legalization of Abortion	irritated woman i do n't know about you , but i did n't vote for the gop to capitulate to the dem # all lives matter #	AGAINST
 11210	Legalization of Abortion	was at the planned parenthood protest in # fitchburg # today with the image of our lady of america # catholic #	AGAINST
 11211	Legalization of Abortion	not much else do n't get pregnant ! make sure you do n't get pregnant if you 'd just kill your child if you do ! choose life racer	AGAINST
-11212	Legalization of Abortion	i am nazi holocaust survivor and i say that abortion is america 's holocaust ! sibylle heid rich von camp # holocaust #	AGAINST
-11213	Legalization of Abortion	feminists pag 1310 ed hand 1310 news we do care about the hurt inflicted upon pre born children through # abortion # # truth tour # # ottawa #	AGAINST
+11212	Legalization of Abortion	i am nazi holocaust survivor and i say that abortion is america 's holocaust ! sibylle heidrich von camp # holocaust #	AGAINST
+11213	Legalization of Abortion	feminists pag 1310 ed hand 1310 news we do care about the hurt inflicted upon preborn children through # abortion # # truth tour # # ottawa #	AGAINST
 11214	Legalization of Abortion	j axle sigh evidence proves that morbidity mortality rates of legal abortion are a lot higher dan carrying pregnancy too term # teens #	AGAINST
 11215	Legalization of Abortion	rt david harris 707 mathews jeanne thank you for your very # kind # rt god bless you # patriot # # babies # matter	AGAINST
 11216	Legalization of Abortion	mathews jeanne thank you for your very # kind # rt god bless you # patriot # # babies # matter	AGAINST

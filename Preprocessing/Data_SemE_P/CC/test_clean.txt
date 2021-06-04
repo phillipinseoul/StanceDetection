@@ -76,7 +76,7 @@ ID	Target	tweet	Stance
 10295	Climate Change is a Real Concern	please will someone at bbc radio 4 clarify what osbourne said about oil and renewable energy ? # budget 2015 # # future of the planet #	FAVOR
 10296	Climate Change is a Real Concern	participation is essential bring vulnerable voices to the table at # cop 21 # says w jaman n # ag cop 21 # # c fcc 15 # cgi ar climate	FAVOR
 10297	Climate Change is a Real Concern	we blame cities for the majority of co2 emissions without acknowledging their vulnerability to # c fcc 15 # # journey 2015 # # s 2228 #	FAVOR
-10298	Climate Change is a Real Concern	fox news laughing out loud too bad all the other scientists agree with him # climate change denier #	FAVOR
+10298	Climate Change is a Real Concern	foxnews laughing out loud too bad all the other scientists agree with him # climate change denier #	FAVOR
 10299	Climate Change is a Real Concern	# kca # # vote j kt 48 id # climate com mr pb the green diet how to eat healthy and save the planet	FAVOR
 10300	Climate Change is a Real Concern	jim harris thank you for the follow jim ! i'm flattered !	NONE
 10301	Climate Change is a Real Concern	david suzuki fd n clean energy can need hydro bill fix in on so people wo n't use dirty alt fuels to heat homes # food or heat # # on poli #	FAVOR
@@ -122,7 +122,7 @@ ID	Target	tweet	Stance
 10341	Climate Change is a Real Concern	# climate change definitions # settled science flawed computer models with jiggered data to force a predefined conclusion	AGAINST
 10342	Climate Change is a Real Concern	people need to wake up realize what 's happening to our earth # hello #	FAVOR
 10343	Climate Change is a Real Concern	# question time # who is more likely to solve problems related to # poverty # # sustainable # # government # ? # religion # ? # business # ?	NONE
-10344	Climate Change is a Real Concern	the countries most likely to survive climate change in one info graphic # survive # # info graphic #	FAVOR
+10344	Climate Change is a Real Concern	the countries most likely to survive climate change in one infographic # survive # # infographic #	FAVOR
 10345	Climate Change is a Real Concern	terraform earth so we can recolonize our own homes	FAVOR
 10346	Climate Change is a Real Concern	what 's next after too years ? ) # think big # # world # # solution # # water #	FAVOR
 10347	Climate Change is a Real Concern	climate change has already cut into the global food supply and is fuelling wars natural disasters # food facts with hero radio #	FAVOR

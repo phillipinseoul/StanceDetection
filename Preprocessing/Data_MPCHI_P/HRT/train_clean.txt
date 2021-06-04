@@ -19,7 +19,7 @@
 42	Should women take HRT post-menopause?	it is important to remember that if you are in early menopause ( ie under 45 ) rather than natural menopause , hrt will just be replacing the hormones that would normally be produced at your age	NONE
 167	Should women take HRT post-menopause?	a long term review of two clinical trials has shed new light on menopausal hormone therapy and breast cancer risk over time	NONE
 22	Should women take HRT post-menopause?	many bothersome symptoms associated with menopause , including hot flashes and mood swings , frequently get better on their own	AGAINST
-93	Should women take HRT post-menopause?	prof dame valerie be ral , professor of epidemiology and director of the cancer epidemiology unit at the university of oxford , called for guidelines to be changed to warn women of the link between hrt and ovarian cancer	AGAINST
+93	Should women take HRT post-menopause?	prof dame valerie beral , professor of epidemiology and director of the cancer epidemiology unit at the university of oxford , called for guidelines to be changed to warn women of the link between hrt and ovarian cancer	AGAINST
 192	Should women take HRT post-menopause?	if you decide to use hrt , try estrogen only formulations and use it for as brief a time as possible	AGAINST
 229	Should women take HRT post-menopause?	however , the latest news about associated health risks has led doctors to believe that the cancer risks are serious enough to outweigh the benefits of the therapy for many women	AGAINST
 51	Should women take HRT post-menopause?	systemic estrogen which comes in pill , skin patch , gel , cream or spray form remains the most effective treatment for relief of troublesome menopausal hot flashes and night sweats	FAVOR

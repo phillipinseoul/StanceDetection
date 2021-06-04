@@ -44,7 +44,7 @@ ID	Target	tweet	Stance
 10043	Atheism	the irish national school system is secular under law we can reaffirm secularism by going through the courts ! humanism ireland	AGAINST
 10044	Atheism	we often talk of unbelief as if it were an affliction to be pitied instead of a crime to be condemned charles surgeon # god #	AGAINST
 10045	Atheism	d sur man jesus is favor of all , that they would believe he died for them why try to wage a conflict you will lose ? # god #	AGAINST
-10046	Atheism	currently doing a piece on logical fallacies for my web log wee bly # philosophy # # logic is m # # web log # # humanist #	AGAINST
+10046	Atheism	currently doing a piece on logical fallacies for my web log wee bly # philosophy # # logicism # # web log # # humanist #	AGAINST
 10047	Atheism	proud to be # team jinnah # ) no bhutto , no imran 's , only jinnah 's pakistan ) # inclusive #	AGAINST
 10048	Atheism	great baptism service at # wood green # very moving stories of people 's faith in # rich # lacey	AGAINST
 10049	Atheism	religious holidays should not be public # rights and recourse # # transformation #	AGAINST
@@ -110,7 +110,7 @@ ID	Target	tweet	Stance
 10109	Atheism	step pin ' out in faith and love have a safe and pleasant day , twee ple ! # blessed # # love # # happy day #	AGAINST
 10110	Atheism	isaiah 43 15 i am the lord , your holy one , the creator of israel , your king # god #	AGAINST
 10111	Atheism	come to me , all you who are weary and burdened , and i will give you rest matt 11 28 # rest # # peace # # scripture # # bible #	AGAINST
-10112	Atheism	from the end of the earth i call to you when my heart is faint lead me to the rock that is higher than i psalm 61 too nas b # he is higher #	AGAINST
+10112	Atheism	from the end of the earth i call to you when my heart is faint lead me to the rock that is higher than i psalm 61 too nasb # he is higher #	AGAINST
 10113	Atheism	( too too ) the father 's active goodness and unrestricted love ruthless trust by manning lord , may i forever trust your love for me	AGAINST
 10114	Atheism	best feeling is when you think you ca n't do it but you did ! # will #	NONE
 10115	Atheism	bind up the wounds of those whose cry comes to you , oh god , rising like a tide , whose hope is in you alone # grace #	AGAINST
@@ -171,7 +171,7 @@ ID	Target	tweet	Stance
 10170	Atheism	the experience of most lgbt people shows them that organized religion is often nothing but structured bullying	FAVOR
 10171	Atheism	just a reminder that humans do not need salvation we need clean water , food , housing , healthcare , and education	FAVOR
 10172	Atheism	jesus is not dead , he was n't real ! not dead	FAVOR
-10173	Atheism	fox news patriot girl thanks todd star nes shame on oregon gov brown for not stepping in to rescind this ruling ! # disgusting # # wrong #	NONE
+10173	Atheism	foxnews patriot girl thanks todd star nes shame on oregon gov brown for not stepping in to rescind this ruling ! # disgusting # # wrong #	NONE
 10174	Atheism	sen sanders there 's god loving each other unconditionally is what matters	AGAINST
 10175	Atheism	i think my surname would be cool but now it looks stupid	NONE
 10176	Atheism	saber in ze the br ics post absurd like saying # nato # membership will help # russia # # pakistan # is # islamist # ca n't be friend of # india #	NONE
@@ -181,7 +181,7 @@ ID	Target	tweet	Stance
 10180	Atheism	rt paul get ter when your past calls , do n't answer it has nothing new to say # team jesus #	AGAINST
 10181	Atheism	bless those with a broken soul	AGAINST
 10182	Atheism	after hindu girls # sheila # # munni # and muslim # razia # , it 's time for christian # mary # in the item song world # hollywood #	AGAINST
-10183	Atheism	so decree whatever thou desire st to decree for thou can st only decree the life of this world	AGAINST
+10183	Atheism	so decree whatever thou desire st to decree for thou canst only decree the life of this world	AGAINST
 10184	Atheism	the enemy is not # muslims # # christians # or # judaism # the real enemy is extremism humans killing humans # respect beliefs # # stop war #	AGAINST
 10185	Atheism	john 10 11 i am the good shepherd the good shepherd lays down his life for the sheep # god # # christ # # hallelujah # # amen #	AGAINST
 10186	Atheism	its really incredible how much this world needs the work of missionaries ! # future missionary # # lds # # hope # # shall not fear #	AGAINST
@@ -215,7 +215,7 @@ ID	Target	tweet	Stance
 10214	Atheism	should we take the # dna # at birth of every human being on earth ? # science # # economics #	NONE
 10215	Atheism	shit just do n't stop but 1 thing i will not question god	AGAINST
 10216	Atheism	1 of too # never # be # afraid # to and never # apologize # for using the # word # of # god # as # analogies # to # explain # something in a # setting # !	AGAINST
-10217	Atheism	how soon do you think wwii i www iv will begin ? # u 9 ted west and # # end racism # # end religion # # end sexism # # end misogyny # # love your neighbor #	FAVOR
+10217	Atheism	how soon do you think wwiii www iv will begin ? # u 9 ted west and # # end racism # # end religion # # end sexism # # end misogyny # # love your neighbor #	FAVOR
 10218	Atheism	the humble trust in god ' whoever leans on , trusts in , and is confident in the lord happy , blessed , and fortunate is he '	AGAINST
 10219	Atheism	where will you be when new horizons 2015 flies by pluto ? # new horizons # # pluto flyby # # pluto # # end racism # # end sexism # # end religion # # peace #	FAVOR
 10220	Atheism	no one can out woo god in the woo department claudia may # god is love is love # # black lives #	AGAINST
